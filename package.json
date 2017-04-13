@@ -1,0 +1,14 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "NMP for my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mike Crarer",
+  "license": "ISC"
+}
